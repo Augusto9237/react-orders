@@ -5,7 +5,7 @@ import {
   ImHome,
   ImPieChart,
   ImCart,
-  ImCancelCircle,
+  ImExit,
   ImCoinDollar,
   ImArrowUp2,
 } from 'react-icons/im';
@@ -66,7 +66,7 @@ function Layout() {
 
           <Link to="/nothing-here">
             <div className="containerButtonsExit">
-              <ImCancelCircle />
+              <ImExit />
             </div>
           </Link>
         </nav>
