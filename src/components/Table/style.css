@@ -1,0 +1,39 @@
+div.body {
+  width: 100%;
+  text-align: center;
+}
+.divTable.unstyledTable .divTableCell,
+.divTable.unstyledTable .divTableHead {
+}
+.divTable.unstyledTable .divTableHeading {
+}
+.divTable.unstyledTable .divTableHeading .divTableHead {
+  font-weight: normal;
+}
+.unstyledTable .tableFootStyle {
+  font-weight: bold;
+}
+/* DivTable.com */
+.divTable {
+  display: table;
+}
+.divTableRow {
+  height: 40px;
+  display: table-row;
+}
+.divTableHeading {
+  display: table-header-group;
+}
+.divTableCell,
+.divTableHead {
+  display: table-cell;
+}
+.divTableHeading {
+  display: table-header-group;
+}
+.divTableFoot {
+  display: table-footer-group;
+}
+.divTableBody {
+  display: table-row-group;
+}
